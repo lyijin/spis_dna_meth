@@ -20,6 +20,8 @@ Here, I provide brief descriptions of the folders I have made available. A longe
 
 ``GLM``: how we defined differentially methylated genes.
 
+``jnk_mapk_meth``: code to illustrate the hypermethylation of negative regulators of JNK and MAPK pathways, and the general hypomethylation of positive regulators of the same pathways.
+
 ``spurious_transcription``: checks whether methylation reduced spurious transcription (it did).
 
 Stuff used in this project, but uploaded elsewhere
