@@ -8,7 +8,7 @@ Methylation pipeline
 --------------------
 A fuller description of the pipeline used (+ scripts, + theoretical considerations) is detailed at https://github.com/lyijin/working_with_dna_meth.
 
-Bismark produces ``*.cov`` files, which are annotated by my scripts in that folder to produce ``*.annot.cov`` files. These files can be found in the ``cov_files`` folder, one for each sample.
+Bismark produces ``*.cov`` files, which are annotated by that pipeline (specifically, ``annotate_bismark_cov.py``) to produce ``*.annot.cov`` files. These files are the key files used in many analyses, and can be found in the ``cov_files`` folder, one for each sample.
 
 Brief description of folder contents
 ------------------------------------
