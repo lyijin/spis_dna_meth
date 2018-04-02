@@ -12,7 +12,7 @@ import glob
 treatments = ['pH_7.2', 'pH_7.4', 'pH_7.8', 'pH_8.1']
 
 for t in treatments:
-    for f in glob.glob('*{}*.final.annot.cov'.format(t)):
+    for f in glob.glob('../*{}*.final.annot.cov'.format(t)):
         tsv_reader = csv.reader(open(f), delimiter='\t')
         
         for row in tsv_reader:
