@@ -12,7 +12,7 @@ Bismark produces ``*.cov`` files, which are annotated by that pipeline (specific
 
 Brief description of folder contents
 ------------------------------------
-I have uploaded scripts that carry out the key analyses--but I'm fairly sure I've missed a couple. Email me if you'd like to know more about how I carried out certain things, and I'll upload them here.
+I have uploaded scripts that carry out the key analyses--but it's likely that I've missed a few. Email me if you'd like to know more about how I carried out certain things, and I'll upload them here.
 
 Here, I provide brief descriptions of the folders I have made available. A longer explanation can be found within the folders themselves.
 
