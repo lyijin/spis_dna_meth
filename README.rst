@@ -1,6 +1,8 @@
 ===============================================================================================
 Epigenome-associated phenotypic acclimatization to ocean acidification in a reef-building coral
 ===============================================================================================
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1211456.svg
+   :target: https://doi.org/10.5281/zenodo.1211456
 
 bioRxiv link to manuscript: https://www.biorxiv.org/content/early/2017/09/13/188227.full.pdf
 
